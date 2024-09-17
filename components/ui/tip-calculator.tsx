@@ -43,7 +43,7 @@ export default function TipCalculator() {
     };
 
     return (
-        <div className="flex flex-col items-center justify-center min-h-screen dark:bg-gray-900 bg-gradient-to-br from-red-900 to-black">
+        <div className="flex flex-col items-center justify-center min-h-screen dark:bg-gray-900 bg-gradient-to-br from-red-900 to-black p-4 sm:p-8">
             <Card className="w-full max-w-md p-6 bg-white dark:bg-gray-800 shadow-2xl rounded-3xl">
                 <CardHeader>
                     <CardTitle>Tip Calculator</CardTitle>
